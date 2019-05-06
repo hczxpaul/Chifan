@@ -1,2 +1,2 @@
 # chifan
-A small program to decide what to eat.
+A small c app to decide what to eat.
